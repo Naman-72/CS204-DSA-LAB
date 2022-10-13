@@ -1,0 +1,4 @@
+Total mirror points: 1 Indices: 0
+Total mirror points: 2 Indices: 0 1
+Total mirror points: 1 Indices: 1
+Total mirror points: 4 Indices: 0 1 2 3

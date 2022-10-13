@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1636366819 source:c:\users\dell\desktop\submission\graph\graph.cpp
+	"graph.h"
+
+1636366815 c:\users\dell\desktop\submission\graph\graph.h
+	<iostream>
+	"graphnode.h"
+
+1636363728 c:\users\dell\desktop\submission\graph\graphnode.h
+	<iostream>
+
+1636365725 source:c:\users\dell\desktop\submission\graph\main.cpp
+	<iostream>
+	"graph.h"
+	"graphnode.h"
+
+1636363698 source:c:\users\dell\desktop\submission\graph\graphnode.cpp
+	"graphnode.h"
+

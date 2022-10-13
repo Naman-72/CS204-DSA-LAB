@@ -1,0 +1,5 @@
+2 elements: 50 71
+3 elements: 71 50 99
+5 elements: 125 71 50 99 192
+4 elements: 99 50 71 125
+3 elements: 71 50 99

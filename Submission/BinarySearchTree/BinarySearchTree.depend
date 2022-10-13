@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1632826200 source:c:\users\dell\desktop\submission\binarysearchtree\binarynode.cpp
+	"BinaryNode.h"
+
+1633099284 c:\users\dell\desktop\submission\binarysearchtree\binarynode.h
+	<iostream>
+
+1633099505 source:c:\users\dell\desktop\submission\binarysearchtree\main.cpp
+	<iostream>
+	"BinaryNode.h"
+	"BinaryTree.h"
+
+1633098990 c:\users\dell\desktop\submission\binarysearchtree\binarytree.h
+	"BinaryNode.h"
+
+1633099392 source:c:\users\dell\desktop\submission\binarysearchtree\binarytree.cpp
+	"BinaryTree.h"
+	"BinaryNode.h"
+

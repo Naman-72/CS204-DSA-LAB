@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1631452780 source:c:\users\dell\desktop\submission\200101070\dllnode.cpp
+	"DLLNode.h"
+
+1631452788 c:\users\dell\desktop\submission\200101070\dllnode.h
+	<iostream>
+
+1631529669 source:c:\users\dell\desktop\submission\200101070\main.cpp
+	<iostream>
+	"DLLNode.h"
+	"CircularDLL.h"
+
+1631530353 source:c:\users\dell\desktop\submission\200101070\circulardll.cpp
+	"CircularDLL.h"
+
+1631525871 c:\users\dell\desktop\submission\200101070\circulardll.h
+	"DLLNode.h"
+

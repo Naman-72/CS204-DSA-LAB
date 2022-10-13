@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1630922601 source:c:\users\dell\desktop\assignment1\array.cpp
+	"Array.h"
+
+1630763072 c:\users\dell\desktop\assignment1\array.h
+	<iostream>
+
+1630920463 source:c:\users\dell\desktop\assignment1\queue.cpp
+	"Queue.h"
+
+1630748292 c:\users\dell\desktop\assignment1\queue.h
+	<iostream>
+	"Array.h"
+
+1630919272 source:c:\users\dell\desktop\assignment1\stack.cpp
+	"Stack.h"
+
+1630763080 c:\users\dell\desktop\assignment1\stack.h
+	"Array.h"
+
+1630922928 source:c:\users\dell\desktop\assignment1\main.cpp
+	<iostream>
+	"InvertingStack.h"
+
+1630922258 c:\users\dell\desktop\assignment1\invertingstack.h
+	"Stack.h"
+	"Queue.h"
+
+1630922867 source:c:\users\dell\desktop\assignment1\invertingstack.cpp
+	"InvertingStack.h"
+
